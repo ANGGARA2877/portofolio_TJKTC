@@ -519,8 +519,8 @@ a:focus {
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  border-color: #ff4f5a;
-  color: #ff4f5a;
+  border-color: #0004ff;
+  color: #0004ff;
 }
 
 .freelance_section .row {

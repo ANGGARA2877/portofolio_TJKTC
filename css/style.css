@@ -199,7 +199,7 @@ a:focus {
 }
 
 .login_btn-container a {
-  color: #1cbbb4;
+  color: #1100fffa;
   text-transform: uppercase;
 }
 
@@ -268,8 +268,8 @@ a:focus {
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  border-color: #ff4f5a;
-  color: #ff4f5a;
+  border-color: #1100ff;
+  color: #1100ff;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
@@ -577,7 +577,7 @@ a:focus {
 }
 
 .freelance_section .tab_container .t-link-box[aria-expanded="true"] .img-box, .freelance_section .tab_container .t-link-box:hover .img-box {
-  background-color: #1cbbb4;
+  background-color: #1900ff;
 }
 
 .freelance_section .img-box img {
